@@ -1,0 +1,6 @@
+{
+  "name": "SaulDesign Portfolio",
+  "description": "Sleek, high-contrast responsive portfolio showcasing flat vector illustrations, active work filter controls, and a custom Mockup presentation switch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
